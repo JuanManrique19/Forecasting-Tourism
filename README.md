@@ -81,8 +81,7 @@ Captura simultáneamente la tendencia creciente, la estacionalidad semanal (pico
 ```
 forecasting-tourism/
 ├── Ejercicio_Forecasting.ipynb   ← Análisis completo con código y conclusiones
-├── data/
-│   └── datosEjercicio.csv        ← Dataset (serie temporal diaria, 3 años)
+├── datosEjercicio.csv        ← Dataset (serie temporal diaria, 3 años)
 └── README.md
 ```
 
