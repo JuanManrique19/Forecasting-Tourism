@@ -116,5 +116,5 @@ O directamente en Google Colab:
 
 ## 👤 Autor
 
-**[Tu Nombre]** — Analista de Datos | Barcelona 🇪🇸  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-usuario)
+**Juan David Manrique** — Analista de Datos | Barcelona 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/juan-david-manrique-quiroga-089a94168)
